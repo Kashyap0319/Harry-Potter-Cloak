@@ -14,7 +14,3 @@ This is a beginner level computer vision project implemented using opencv with p
 4.Adjust the HSV values for the color of sheet to be in range.</br>
 5.Enjoy the effect.
 
-<h4>Screenshots :</h4></br>
-<p>
-<img src="https://raw.githubusercontent.com/infoaryan/Harry-Potter-Cloak/master/Screenshot1.png" width="400" height="300">  <img src="https://raw.githubusercontent.com/infoaryan/Harry-Potter-Cloak/master/screenshot2.png" width="400" height="300">
-</p>
